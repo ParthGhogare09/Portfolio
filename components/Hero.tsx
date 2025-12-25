@@ -67,7 +67,7 @@ export default function Hero() {
 
           <motion.div variants={itemVariants} className="flex gap-4 justify-center md:justify-start">
             <motion.a
-              href="/images/parth resume new.pdf"
+              href="/images/Parth%20Resume%20New.pdf"
               download
               className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-[#003087] to-[#4ea8de] text-white font-semibold rounded-full shadow-lg hover:shadow-xl transition-shadow"
               whileHover={{ scale: 1.05 }}
